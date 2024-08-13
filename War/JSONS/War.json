@@ -8401,9 +8401,15 @@
 									"forMod": false
 								},
 								{
+									"tick": 30,
+									"pitchBend": 0,
+									"volume": 33,
+									"forMod": false
+								},
+								{
 									"tick": 32,
 									"pitchBend": 0,
-									"volume": 100,
+									"volume": 0,
 									"forMod": false
 								}
 							],
@@ -8475,7 +8481,7 @@
 			"instruments": [
 				{
 					"type": "chip",
-					"volume": 3,
+					"volume": 1,
 					"eqFilter": [
 						{
 							"type": "low-pass",
