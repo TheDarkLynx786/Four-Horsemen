@@ -4800,7 +4800,7 @@
 				4,
 				7,
 				7,
-				9,
+				7,
 				3,
 				14
 			],
@@ -8469,7 +8469,7 @@
 				4,
 				8,
 				8,
-				5,
+				8,
 				0,
 				14
 			],
@@ -9157,7 +9157,7 @@
 			"instruments": [
 				{
 					"type": "drumset",
-					"volume": 0,
+					"volume": -3,
 					"eqFilter": [
 						{
 							"type": "high-pass",
@@ -12536,20 +12536,7 @@
 					"noteFilterType": true,
 					"noteSimpleCut": 5,
 					"noteSimplePeak": 1,
-					"noteFilter": [
-						{
-							"type": "low-pass",
-							"cutoffHz": 1664.21,
-							"linearGain": 0.5
-						}
-					],
-					"noteSubFilters1": [
-						{
-							"type": "low-pass",
-							"cutoffHz": 1664.21,
-							"linearGain": 0.5
-						}
-					],
+					"noteFilter": [],
 					"pan": 0,
 					"panDelay": 10,
 					"reverb": 0,
@@ -12736,7 +12723,7 @@
 					"fadeOutTicks": -1,
 					"modChannels": [
 						-1,
-						4,
+						-2,
 						-2,
 						-2,
 						-2,
@@ -12752,7 +12739,7 @@
 					],
 					"modSettings": [
 						2,
-						36,
+						0,
 						0,
 						0,
 						0,
@@ -12798,26 +12785,6 @@
 					"notes": [
 						{
 							"pitches": [
-								4
-							],
-							"points": [
-								{
-									"tick": 0,
-									"pitchBend": 0,
-									"volume": 22,
-									"forMod": true
-								},
-								{
-									"tick": 2,
-									"pitchBend": 0,
-									"volume": 22,
-									"forMod": true
-								}
-							],
-							"continuesLastPattern": false
-						},
-						{
-							"pitches": [
 								5
 							],
 							"points": [
@@ -12839,52 +12806,10 @@
 					]
 				},
 				{
-					"notes": [
-						{
-							"pitches": [
-								4
-							],
-							"points": [
-								{
-									"tick": 0,
-									"pitchBend": 0,
-									"volume": 17,
-									"forMod": true
-								},
-								{
-									"tick": 2,
-									"pitchBend": 0,
-									"volume": 17,
-									"forMod": true
-								}
-							],
-							"continuesLastPattern": false
-						}
-					]
+					"notes": []
 				},
 				{
-					"notes": [
-						{
-							"pitches": [
-								4
-							],
-							"points": [
-								{
-									"tick": 0,
-									"pitchBend": 0,
-									"volume": 22,
-									"forMod": true
-								},
-								{
-									"tick": 2,
-									"pitchBend": 0,
-									"volume": 22,
-									"forMod": true
-								}
-							],
-							"continuesLastPattern": false
-						}
-					]
+					"notes": []
 				},
 				{
 					"notes": []
@@ -12938,11 +12863,11 @@
 				0,
 				0,
 				0,
-				3,
 				0,
 				0,
 				0,
-				4,
+				0,
+				0,
 				0,
 				0,
 				0,
